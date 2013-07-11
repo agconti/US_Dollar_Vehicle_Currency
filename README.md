@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Bearcart
 ![BearCart](http://farm9.staticflickr.com/8254/8711978179_4f3a42e2b8_o.jpg)
 ###Creating Rickshaw.js visualizations with Python Pandas
@@ -111,3 +112,9 @@ Docs
 You can read the entire source in 20 minutes. But I needed to learn Sphinx: https://bearcart.readthedocs.org
 
 
+=======
+US_Dollar_Vehicle_Currency
+==========================
+
+An economic analysis of US Dollar is NOT always the vehicle currency. The project will explore under what circumstances is another currency of denomination chosen?  If not the US Dollar then what currency is being used?
+>>>>>>> 6d5d5fa653aac95850508fff508dc30cee01c687
